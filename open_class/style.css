@@ -1,0 +1,21 @@
+body
+{
+	background-color: Black;
+	font-family:  sans-serif, serif, Arial ;
+	color :white;
+}
+h3{
+
+	color : orange;
+}
+.first{
+	text-decoration: wavy-underline;
+	text-color:yellow;
+
+}
+a{
+	color :hotpink;
+}
+a:hover{
+	color: yellow;
+}
